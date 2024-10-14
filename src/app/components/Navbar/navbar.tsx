@@ -10,7 +10,7 @@ export default function Navbar() {
   return (
     <div className={cssStyle.container}>
       <div className={cssStyle.logo}>
-        <Image src='https://e7.pngegg.com/pngimages/994/253/png-clipart-square-academic-cap-graduation-ceremony-academic-dress-gown-cap-white-leaf-thumbnail.png' 
+        <Image src='https://st4.depositphotos.com/21557188/23281/v/1600/depositphotos_232817532-stock-illustration-graduation-cap-education-icon-white.jpg' 
         alt="Logo" 
         width={70} 
         height={70} 
