@@ -1,0 +1,30 @@
+.footer {
+    background: linear-gradient(to right, #20282b, #f3e4f5);
+     margin: 10px auto;
+     align-items: center;
+     justify-content: space-between;
+     border-top: 1px solid #a8a2a2;
+     padding: 15px 0;
+     text-align: center;
+     color: white;
+}
+
+.footer p {
+    margin: 0; 
+}
+
+.footer ul {
+    list-style: none;
+    padding: 0; 
+    margin: 10px 0 0; 
+}
+
+.footer li {
+    display: inline; 
+    margin: 0 15px; 
+    cursor: pointer; 
+}
+
+.footer li:hover {
+    text-decoration: underline;
+}
